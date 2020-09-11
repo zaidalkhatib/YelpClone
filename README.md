@@ -1,6 +1,6 @@
 # YelpClone
 <h3>npm start</h3>
-Runs the app in the development mode.
+Runs the app in the development mode.<br />
 Open http://localhost:19002 to go to expo then choose your sumilatot. 
 
 <h1>How it Works</h1>
