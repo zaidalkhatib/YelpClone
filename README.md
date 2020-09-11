@@ -6,12 +6,12 @@ Open http://localhost:19002 to go to expo then choose your sumilatot.
 <h1>How it Works</h1>
 <ul>
 <li> 
-Search for a food/ restaurant you are looking for  
+Search for a restaurant/food you are looking for  
 </li>
 <li> 
 Pick the restaurant by clicking on it
 </li>
 <li> 
-Click on dirction to get send to the map
+Click on dirction to get sent to the map
 </li>
 </ul>
