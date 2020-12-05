@@ -6,7 +6,7 @@ Open http://localhost:19002 to go to expo then choose your sumilatot.
 <h3>How to use it</h3>
 <ul>
 <li> Clone the repo by clicking on the clone button </li>
-<li>Run npm start, it will open an expo web page then you can choose on wich simulator you want use</li>
+<li>Run npm start, it will open an expo web page then you can choose on which simulator you want use</li>
 </ul>
 
 <h1>How it Works</h1>
